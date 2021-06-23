@@ -4,8 +4,7 @@ Bot to provide links of different types of files you send.
 Is it a nuisance to send huge files to others.File To Link Bot is for you.This bot will help you to provide shorten links for different types of files you send.
 ### ⬆️DEPLOY TO HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thakshaka/FileToLinkTeLeTiPs)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/127gg/FileToLinkTeLeTiPs)
 ### ⚜️ HOW TO USE THIS BOT
 
 ```
